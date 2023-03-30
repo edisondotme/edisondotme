@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **edisondotme/edisondotme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: see edison.me/contact
 - 😄 Pronouns: I refuse to dignify this question with an answer
 - ⚡ Fun fact: Corriander is the same thing as cilantro?
--->
